@@ -1,0 +1,53 @@
+16:45:17.911 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully verify the message..
+16:45:18.108 [main] INFO  testCases.TC001_AccountRegistrationTest - **********  Finished TC001_AccountRegistrationTest  **********
+16:45:37.861 [main] INFO  testCases.TC002_LoginTest - ********** Starting TC002_LoginTest **********
+16:45:37.913 [main] INFO  testCases.TC002_LoginTest - Click on myAccount button
+16:45:41.212 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+16:45:51.874 [main] INFO  testCases.TC002_LoginTest - set email address
+16:45:56.018 [main] INFO  testCases.TC002_LoginTest - set password
+16:45:59.339 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+16:46:05.351 [main] INFO  testCases.TC002_LoginTest - validating My Account page
+16:46:10.462 [main] INFO  testCases.TC002_LoginTest - Successfully validate myaccount page
+16:46:10.471 [main] INFO  testCases.TC002_LoginTest - ********** Finished TC002_LoginTest **********
+16:54:25.949 [main] INFO  testCases.TC001_AccountRegistrationTest - **********  Starting TC001_AccountRegistrationTest  **********
+16:54:31.608 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+16:54:39.641 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+16:54:39.745 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:54:46.079 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully entered customer details..
+16:54:47.229 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked privacy checkbox
+16:54:49.631 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully clicked continue button..
+16:54:49.633 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:54:50.440 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully verify the message..
+16:54:50.441 [main] INFO  testCases.TC001_AccountRegistrationTest - **********  Finished TC001_AccountRegistrationTest  **********
+16:55:05.113 [main] INFO  testCases.TC002_LoginTest - ********** Starting TC002_LoginTest **********
+16:55:05.154 [main] INFO  testCases.TC002_LoginTest - Click on myAccount button
+16:55:06.135 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+16:55:07.700 [main] INFO  testCases.TC002_LoginTest - set email address
+16:55:09.164 [main] INFO  testCases.TC002_LoginTest - set password
+16:55:09.959 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+16:55:13.297 [main] INFO  testCases.TC002_LoginTest - validating My Account page
+16:55:16.700 [main] INFO  testCases.TC002_LoginTest - Successfully validate myaccount page
+16:55:16.705 [main] INFO  testCases.TC002_LoginTest - ********** Finished TC002_LoginTest **********
+16:56:49.111 [main] INFO  testCases.TC001_AccountRegistrationTest - **********  Starting TC001_AccountRegistrationTest  **********
+16:56:51.998 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+16:56:55.448 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+16:56:55.459 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:56:59.317 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully entered customer details..
+16:56:59.680 [main] INFO  testCases.TC001_AccountRegistrationTest - Checked privacy checkbox
+16:57:03.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully clicked continue button..
+16:57:03.178 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:57:04.759 [main] INFO  testCases.TC001_AccountRegistrationTest - Successfully verify the message..
+16:57:04.759 [main] INFO  testCases.TC001_AccountRegistrationTest - **********  Finished TC001_AccountRegistrationTest  **********
+16:57:48.938 [main] INFO  testCases.TC002_LoginTest - ********** Starting TC002_LoginTest **********
+16:57:49.010 [main] INFO  testCases.TC002_LoginTest - Click on myAccount button
+16:57:50.535 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+16:57:52.593 [main] INFO  testCases.TC002_LoginTest - set email address
+16:57:53.350 [main] INFO  testCases.TC002_LoginTest - set password
+16:57:53.951 [main] INFO  testCases.TC002_LoginTest - Click on Login button
+16:57:55.748 [main] INFO  testCases.TC002_LoginTest - validating My Account page
+16:58:00.651 [main] INFO  testCases.TC002_LoginTest - Successfully validate myaccount page
+16:58:00.693 [main] INFO  testCases.TC002_LoginTest - ********** Finished TC002_LoginTest **********
+18:59:41.268 [main] INFO  testCases.TC001_AccountRegistrationTest - **********  Starting TC001_AccountRegistrationTest  **********
+18:59:43.515 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on MyAccount link
+18:59:45.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Register link
+18:59:46.414 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
